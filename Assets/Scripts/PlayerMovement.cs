@@ -15,6 +15,6 @@ public class PlayerMovement : MonoBehaviour
     {
         // TODO: Setup inputs to move the player left, right, forward and backwards
         // TODO: Press a specific button to spawn a shield
-        // TODO: Deduct the number of shields available
+        // TODO: Deduct the number of shields available (consider writing this code in another component)
     }
 }
